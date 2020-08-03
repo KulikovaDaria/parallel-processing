@@ -1,0 +1,1 @@
+add_executable ( vector_matrix_operations linear_system.cpp matrix.h matrix.cpp parallel_matrix.h parallel_matrix.cpp parallel_vector.h parallel_vector.cpp vector.h vector.cpp test.cpp )
